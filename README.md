@@ -14,3 +14,5 @@ The code generates a bar chart using plt.bar(manufacturer, sales). It uses the x
 The code customizes the chart by setting labels for the x-axis, y-axis, and title using plt.xlabel(), plt.ylabel(), and plt.title() respectively. The x-axis is labeled as 'Manufacturer', the y-axis as 'Sales_in_thousands', and the chart is titled 'Bar Chart'.
 
 The code displays the chart using plt.show(), which will open a separate window or display the chart directly in a Jupyter Notebook or similar environment.
+
+![image](https://github.com/OmWalunj/PRODIGY_DS_01/assets/114018348/7f8f89e6-588a-476f-a239-2ee15d57c391)
